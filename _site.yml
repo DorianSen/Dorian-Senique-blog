@@ -14,5 +14,6 @@ navbar:
 base_url: https://DorianSen.github.io/Dorian-Senique-blog/
 collections:
     posts:
+      disqus: dorian-senique-blog
       share: [twitter, linkedin, facebook]
 output: distill::distill_article
