@@ -2,7 +2,7 @@
 title: "Article 1 : test synchro "
 author:
   - name: Nicolas Devilez
-date: 09-18-2019
+date: 
 categories:
   - elephant
   - track
