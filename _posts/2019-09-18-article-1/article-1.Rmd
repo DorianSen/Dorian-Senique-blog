@@ -1,5 +1,5 @@
 ---
-title: "Article 1 : Where’s My Elephant? High-Tech Collars Track Wildlife in Real Time"
+title: "Article 1 : test synchro "
 author:
   - name: Nicolas Devilez
 date: 09-18-2019
