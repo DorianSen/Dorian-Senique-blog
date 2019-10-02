@@ -1,9 +1,9 @@
 ---
-title: "nom-de-votre-article"
+title: "biomimicry"
 description: |
   A short description of the post.
-author:
-  - name: Nicolas
+author: jean bl
+  - name: 
     url: {}
 date: 10-02-2019
 output:
