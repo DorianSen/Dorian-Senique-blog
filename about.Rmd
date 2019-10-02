@@ -1,8 +1,12 @@
 ---
-title: "About me"
+title: "Blog : English course-SENIQUE DORIAN"
+
 ---
+author: "Senique Dorian"
+English teacher: "Benedicte Bouchet"
+Class name: "BAB2 biology group3"
+topic: "Biomimicry"
 
 
-This section also must include: 
 
-- first name/surname, teacher’s name, class name and academic year
+- Dorian SENIQUE, BOUCHET Benedicte, BAB2 biology Group 3 2019-2020
