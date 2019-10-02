@@ -16,5 +16,20 @@
     ],
     "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
     "last_modified": "2019-10-02T18:31:41+02:00"
+  },
+  {
+    "path": "posts/2019-10-02-nom-de-votre-article/",
+    "title": "BIOMIMICRY article test2",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Nicolas Devilez",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-02",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-10-02T19:06:13+02:00"
   }
 ]

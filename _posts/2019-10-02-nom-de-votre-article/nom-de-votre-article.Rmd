@@ -1,18 +1,19 @@
 ---
-title: "biomimicry"
+title: "BIOMIMICRY article test2"
 description: |
   A short description of the post.
-author: jean bl
-name: 
-url: {}
+author:
+  - name: Nicolas Devilez
+    url: {}
 date: 10-02-2019
 output:
-distill::distill_article:
-self_contained: false
+  distill::distill_article:
+    self_contained: false
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-This is a test in order to improve my skills in Rstudio git and github
+This article is a test in order to improve my skills in Rstudio,Git and Github
+
