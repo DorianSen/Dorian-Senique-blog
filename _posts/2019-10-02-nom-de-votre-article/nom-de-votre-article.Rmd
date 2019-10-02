@@ -3,12 +3,12 @@ title: "biomimicry"
 description: |
   A short description of the post.
 author: jean bl
-  - name: 
-    url: {}
+name: 
+url: {}
 date: 10-02-2019
 output:
-  distill::distill_article:
-    self_contained: false
+distill::distill_article:
+self_contained: false
 ---
 
 ```{r setup, include=FALSE}
