@@ -15,7 +15,4 @@ self_contained: false
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
-
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+This is a test in order to improve my skills in Rstudio git and github
