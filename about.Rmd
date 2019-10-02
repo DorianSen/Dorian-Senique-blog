@@ -2,11 +2,13 @@
 title: "Blog : English course-SENIQUE DORIAN"
 
 ---
-author: "Senique Dorian"
-English teacher: "Benedicte Bouchet"
-Class name: "BAB2 biology group3"
-topic: "Biomimicry"
+
+author: SENIQUE Dorian
+------------------------
+
+*English teacher: BOUCHET Bénedicte
+*Class name: BAB2 biology group 3
+*topic: Biomimicry
 
 
 
-- Dorian SENIQUE, BOUCHET Benedicte, BAB2 biology Group 3 2019-2020
