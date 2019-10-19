@@ -25,21 +25,50 @@ https://www.eurekalert.org/pub_releases/2019-09/lu-nbm093019.php
 
 ## Vocabulary
 
-| Words from the text | Synonym/explanation in English |
-| ------------------- | ------------------------------ |
-| E.g. To cope with   | To deal with                   |
-|                     | Not too distant future         |
+| English               | French                         | English definition                                   |
+| --------------------- | ------------------------------ | ---------------------------------------------------- |
+| Scaffold              | échaffaudage, support          | a raised platform used to repair of erect a building |
+| kidneys               | reins                          | organ who filters wastes of the blood                |
+| to disrupt            | perturber                      | causing disturbance                                  |
+| effectively           | efficacement                   | In such a manner as to achieve a desired result.     |
+| to provides           | fournir                        |  Make available for use, supply.                     |
+| a cushioning material | un materiau d'amortissement    | a material which limits damages in case of stress    |
+| tight                 | étroit                         | not wide                                             |
+| thightly              | étroitement                    | not widely                                           |
+| a repair              | une réparation                 | making something fresh again                         |
+| anchor                | ancrage                        | an object attached to another one                    |
+| pointless             | inutile, vain                  | futil,absurd                                         |
+| beneath               | sous, en dessous               | below, under                                         |
+| spatially             | dans l'espace                  |                                                      |
+| cue                   | repère                         | a signal for action                                  |
+| to lead a study       | mener une étude                | study something in an academic way                   |
+| widely-used           | largemet utilisé               | something used very often                            |
+| to seed               | semer                          |                                                      |
+| to foster             | favoriser                      | Encourage the development of something               |
+| to promote            | promouvoir                     | Support or actively encourage                        |
+| a pattern             | un motif                       | A repeated design                                    |
+| fine-tuned            | affiné, peaufiné, perfectionné | in the best way as possible                          |
+| to mimic              | immiter                        | mime                                                 |
+| a glimpse             | un apperçu                     | flash, glance                                        |
+| ink                   | encre                          | colored liquid used for writting                     |
+| 3D printing           | l'impression 3D                |                                                      |
+| coaxed                | cajolé                         | cajole, entice                                       |
+| versatile             | polyvalent                     | multifonctionnal                                     |
+| unwanted outcomes     | effets indésirés               |                                                      |
+| stem cell             | une cellule souche             | An undifferentiated cell                             |
+| gluing                | coller, faire un collage       |                                                      |
+|                       |                                |                                                      |
 
 ## Analysis table 
 
 |                              |                                                                     |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | ()                        |
-| Published in?                | (09-30-2019)                                                       |
-| General topic?               |  (summarize the topic in one or two sentences)                      |
-| Procedure/what was examined? | (Give some details about the topic, i.e. methodology/material/etc.) |
-| Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
-| Remaining questions?         | (check if there are still interrogations at the end of the article) |
+| Researchers                  | -Paula Camacho (Bioengineering),Hafiz Busari (Materials Science & Engineering),Kelly Seims (Materials Science & Engineering)                        |
+| Published in?                | 09-30-2019                                                       |
+| General topic?               | The article is about a new process which helps cells to develop in a correct way with the helps of scaffolds made out of proteins.                      |
+| Procedure/what was examined? | The researchers uses 3D printing technology to print structures. they are special structure because it countains polypeptides which provides cues for the cell to behave in a specific way. The reseachers led a study about cartilage and bones in order to find a way to recreate the innitial anchor between 2 types of tissues in case of injury or stress with the help of this technology|
+| Conclusions/discovery?       |  It is possible to handle the developpement of stem cell by using this technology of scaffolds in order to improve some medical cares.     |
+| Remaining questions?         | The proccess of the farbication involve, according to the reseachers,some modifications after the creation which can also involve unwanted outcomes |
 
 :
 <https://www.eurekalert.org/pub_releases/2019-09/lu-nbm093019.php>
