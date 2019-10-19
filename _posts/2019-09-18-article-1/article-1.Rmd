@@ -38,5 +38,5 @@ knitr::opts_chunk$set(echo = FALSE)
 | Conclusions/discovery?       |  (what did the researchers conclude? Did they find something?)      |
 | Remaining questions?         | (check if there are still interrogations at the end of the article) |
 
-
+:
 <https://www.eurekalert.org/pub_releases/2019-09/lu-nbm093019.php>
