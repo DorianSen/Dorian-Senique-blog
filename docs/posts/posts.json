@@ -1,20 +1,21 @@
 [
   {
     "path": "posts/2019-09-18-article-1/",
-    "title": "Article 1 : test synchro ",
+    "title": "Article 1 :New biofabrication method creates one scaffold to guide regeneration of multiple tissues",
     "description": {},
     "author": [
       {
-        "name": "Nicolas Devilez",
+        "name": "LEHIGH UNIVERSITY/STEPHANIE VETO",
         "url": {}
       }
     ],
-    "date": "2019-10-02",
+    "date": "2019-09-30",
     "categories": [
-      "elephant",
-      "track"
+      "Biomimicry",
+      "Biotechnology",
+      "Biochemistry"
     ],
-    "preview": "posts/2019-09-18-article-1/image/where-s-my-elephant.jpg",
-    "last_modified": "2019-10-02T18:31:41+02:00"
+    "preview": "posts/2019-09-18-article-1/image/bioscaffold.jpg",
+    "last_modified": "2019-10-19T14:36:41+02:00"
   }
 ]
