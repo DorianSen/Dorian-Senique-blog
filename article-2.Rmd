@@ -1,0 +1,41 @@
+---
+title: "Article 2: Chameleon's tongue strike inspires fast-acting robots that catch live insects in the blink of an eye"
+author: 
+  - name: Nicole Pitti 
+date: 10-29-2019
+categories:
+  - Biomimicry
+  - Biotechnology
+  - Bioengineering.
+preview: 
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](https://i.ytimg.com/vi/G_Yg0yWDCgU/maxresdefault.jpg)
+
+## URL link to the article:
+https://www.purdue.edu/newsroom/releases/2019/Q4/chameleons-tongue-strike-inspires-fast-acting-robots-that-catch-live-insects-in-the-blink-of-an-eye.html
+
+## Vocabulary
+
+
+## Analysis table 
+
+|                              |                                                                     |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Researchers                  | -Paula Camacho (Bioengineering),Hafiz Busari (Materials Science & Engineering),Kelly Seims (Materials Science & Engineering)                        |
+| Published in?                | 09-30-2019                                                       |
+| General topic?               | The article is about a new process which helps cells to develop in a correct way with the helps of scaffolds made out of proteins.                      |
+| Procedure/what was examined? | The researchers uses 3D printing technology to print structures. they are special structure because it countains polypeptides which provides cues for the cell to behave in a specific way. The reseachers led a study about cartilage and bones in order to find a way to recreate the innitial anchor between 2 types of tissues in case of injury or stress with the help of this technology|
+| Conclusions/discovery?       |  It is possible to handle the developpement of stem cell by using this technology of scaffolds in order to improve some medical cares.     |
+| Remaining questions?         | The proccess of the farbication involve, according to the reseachers,some modifications after the creation which can also involve unwanted outcomes |
+
+:
+<https://www.eurekalert.org/pub_releases/2019-09/lu-nbm093019.php>
