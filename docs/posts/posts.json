@@ -1,5 +1,24 @@
 [
   {
+    "path": "posts/2019-10-30-article-2/",
+    "title": "Article 2: Chameleon's tongue strike inspires fast-acting robots that catch live insects in the blink of an eye",
+    "description": {},
+    "author": [
+      {
+        "name": "Nicole Pitti",
+        "url": {}
+      }
+    ],
+    "date": "2019-10-29",
+    "categories": [
+      "Biomimicry",
+      "Biotechnology",
+      "Bioengineering"
+    ],
+    "preview": "posts/2019-10-30-article-2/image/chameleon.jpg",
+    "last_modified": "2019-10-30T18:20:46+01:00"
+  },
+  {
     "path": "posts/2019-09-18-article-1/",
     "title": "Article 1 :New biofabrication method creates one scaffold to guide regeneration of multiple tissues",
     "description": {},

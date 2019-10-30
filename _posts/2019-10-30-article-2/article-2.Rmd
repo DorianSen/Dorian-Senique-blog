@@ -6,8 +6,8 @@ date: 10-29-2019
 categories:
   - Biomimicry
   - Biotechnology
-  - Bioengineering.
-preview: 
+  - Bioengineering
+preview: image/chameleon.jpg
 output:
   distill::distill_article:
     self_contained: false
