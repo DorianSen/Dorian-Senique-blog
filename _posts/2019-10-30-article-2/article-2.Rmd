@@ -25,17 +25,32 @@ https://www.purdue.edu/newsroom/releases/2019/Q4/chameleons-tongue-strike-inspir
 
 ## Vocabulary
 
+| English      | French                  | English definition / Synonym                        |
+| ------------ | ----------------------- | --------------------------------------------------- |
+| toad         | crapeau                 | small animal similar to a frog                      |
+| unsuspecting | innocent(e)             | not knowing about something                         |
+| a tenth      | un dixième              | one out of ten                                      |
+| actuator     | commande,actionneur     | a machine that makes something work                 |
+| bioinspired  | biologiquement insipiré | inspired from nature                                |
+| stretchable  | étirable, élastique     | bouncy, elastic, flexible                           |
+| beatle       | scarabé                 | insect with a hard back                             |
+| to retrieve  | récuperer               | to get something back                               |
+| accurately   | avec précision          | in a way that is correct or true in every detail    |
+| component    | composant               | ancillary                                           |
+| overcome     | surmonter               | to succeed in dealing with or controlling a problem |
+|  gripper     | pince                   | clamp                                               |
+| inner        | intérieur               | inside or further towards the centre of something   |
+| patterned    | structuré               | decorated with a pattern                            
+
 
 ## Analysis table 
 
-|                              |                                                                     |
-| ---------------------------- | ------------------------------------------------------------------- |
-| Researchers                  | -Paula Camacho (Bioengineering),Hafiz Busari (Materials Science & Engineering),Kelly Seims (Materials Science & Engineering)                        |
-| Published in?                | 09-30-2019                                                       |
-| General topic?               | The article is about a new process which helps cells to develop in a correct way with the helps of scaffolds made out of proteins.                      |
-| Procedure/what was examined? | The researchers uses 3D printing technology to print structures. they are special structure because it countains polypeptides which provides cues for the cell to behave in a specific way. The reseachers led a study about cartilage and bones in order to find a way to recreate the innitial anchor between 2 types of tissues in case of injury or stress with the help of this technology|
-| Conclusions/discovery?       |  It is possible to handle the developpement of stem cell by using this technology of scaffolds in order to improve some medical cares.     |
-| Remaining questions?         | The proccess of the farbication involve, according to the reseachers,some modifications after the creation which can also involve unwanted outcomes |
+|
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Researchers             | Ramses Martinez,  Assistant professor in Purdue’s School of Industrial Engineering                                                                                                                                                                                                                                                                                                                                                                           |
+| Published in?           | 29/10/2019                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| General topic?          | This paper is about a new kind of robot called "soft robot" which are directly inspired by the moves of the sticky tongue of animals like chameleon,toads etc when they are predating.These soft robots are made out of polymers. They have the property of retrieving, they are sort of elastic structure which can grab, with an high speed, heavy objects and researchers find it very interesting because of several applications to come in industry.  |
+|  Conclusions/discovery? | The researchers found a new kind of mechanical moving  strategy bioinspired by nature  that could revolutionize  many application in the industrial use.                                                                                                                                                                                                                                                                                                     |
 
 :
-<https://www.eurekalert.org/pub_releases/2019-09/lu-nbm093019.php>
+
