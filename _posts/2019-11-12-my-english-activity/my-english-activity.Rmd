@@ -1,0 +1,18 @@
+---
+title: "My English Activity Log  : M.E.A.L."
+author:
+  - name: Senique Dorian
+
+date: 11-12-2019
+categories:
+  - "M.E.A.L."
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+My english activity :
+
+-19 October : reading an English version of Game Of Thrones season 1
+-
