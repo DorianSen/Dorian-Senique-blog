@@ -1,0 +1,36 @@
+---
+title: "Article 3 :Clingfish biology inspires better suction cup"
+author:
+  - name: Ioana Patringenaru
+date: 11-22-2019
+categories:
+  - Biomimicry
+  - Biotechnology
+  - Biochemistry
+  - Biology
+preview: image/suction-cup.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+![](image/suction-cup.jpg)
+
+## URL link to the article:
+
+[Clingfish biology inspires better suction cup](https://ucsdnews.ucsd.edu/pressrelease/clingfish)
+
+## Vocabulary
+
+
+## Analysis table 
+
+
+
+:
+

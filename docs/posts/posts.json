@@ -1,8 +1,28 @@
 [
   {
+    "path": "posts/2019-11-17-article3/",
+    "title": "Article 3 :Clingfish biology inspires better suction cup",
+    "description": {},
+    "author": [
+      {
+        "name": "Ioana Patringenaru",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-22",
+    "categories": [
+      "Biomimicry",
+      "Biotechnology",
+      "Biochemistry",
+      "Biology"
+    ],
+    "preview": "posts/2019-11-17-article3/image/suction-cup.jpg",
+    "last_modified": "2019-11-17T13:35:20+01:00"
+  },
+  {
     "path": "posts/2019-11-14-my-english-activity/",
     "title": "My English activity",
-    "description": "my english activity.",
+    "description": {},
     "author": [
       {
         "name": "Senique Dorian",
@@ -11,8 +31,8 @@
     ],
     "date": "2019-11-14",
     "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-14T19:59:39+01:00"
+    "preview": "posts/2019-11-14-my-english-activity/image/library.jpg",
+    "last_modified": "2019-11-17T13:41:26+01:00"
   },
   {
     "path": "posts/2019-10-30-article-2/",
