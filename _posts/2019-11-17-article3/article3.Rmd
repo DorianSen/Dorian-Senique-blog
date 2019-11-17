@@ -23,9 +23,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## URL link to the article:
 
-[Clingfish biology inspires better suction cup](https://ucsdnews.ucsd.edu/pressrelease/clingfish)
+click [here](https://ucsdnews.ucsd.edu/pressrelease/clingfish) to see the article.
 
 ## Vocabulary
+
 
 
 ## Analysis table 

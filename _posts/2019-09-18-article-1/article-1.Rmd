@@ -21,7 +21,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ![](image/bioscaffold.jpg)
 
 ## URL link to the article:
-https://www.eurekalert.org/pub_releases/2019-09/lu-nbm093019.php
+click [here](https://www.eurekalert.org/pub_releases/2019-09/lu-nbm093019.php) to see the article.
 
 ## Vocabulary
 
