@@ -26,6 +26,21 @@ knitr::opts_chunk$set(echo = FALSE)
 click [here](https://ucsdnews.ucsd.edu/pressrelease/clingfish) to see the article.
 
 ## Vocabulary
+| English     | Definition                                                                          |
+|-------------|-------------------------------------------------------------------------------------|
+|             |                                                                                     |
+| Clingfish   | A small fish mainly in shallow water with a sucker for attachement to the substrate |
+| suction cup | A circular piece of rubber that sticks to surfaces                                  |
+| rough       | not smooth                                                                          |
+| device      | equipment that does a particular thing                                              |
+| to cling    | to hold onto something                                                              |
+| overarching | affecting or including everything and therefore very important                      |
+| widespread  | existing in many places                                                             |
+| slit        | a long narrow space in something                                                    |
+| row         | a series of people or things arranged in a straight line                            |
+| ROV         | Remotely Operated underwater Vehicle                                                |
+| to acquire  | to get                                                                              |
+| to coat     | provide with a layer or covering with something.                                    |
 
 
 
