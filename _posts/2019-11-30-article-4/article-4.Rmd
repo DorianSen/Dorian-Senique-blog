@@ -6,7 +6,7 @@ author:
   - name: Lela Nargi
     url: {}
 date: 06-23-2019
-preview: image/octopus1.jpg
+preview: image/octo.jpeg
 output: 
   distill::distill_article:
     self_contained: false
