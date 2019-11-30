@@ -46,7 +46,13 @@ vocabulary : word key from the article :
 
 
 ## Analysis table
-
+| Researchers          | - Alon Gorodetsky ,Chemical and Biomolecular Engineering at UCI                                                                                                                                                                                                                                                                                                                                    |
+|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in?        | june 23 2019                                                                                                                                                                                                                                                                                                                                                                                       |
+| General topic?       | - The article is about a new kind of material inspired by octopus. A.Gorodetsky carried out a study about the way that octopus mimics his environnement, (rocks, algues, sand,...) and he found out some very interresting things about to create a material able to regulate the temperature, (a kind of textile) of our body by using the mechanisms of the mimetic protocol of the octopus.     |
+| Procedure ?          | The reaserchers observed the way the cephalopod's skin behave while camouflaging. Then, they applied it with another structure ( with copper ) in order to use it for temperature.                                                                                                                                                                                                                 |
+| Conclusion/discovery | They succeded to create a kind of textile that could let people change their own temperature rather than the temperature of a room which could be a huge inovation in enregy saving process.                                                                                                                                                                                                       |
+|                      |                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 
 
