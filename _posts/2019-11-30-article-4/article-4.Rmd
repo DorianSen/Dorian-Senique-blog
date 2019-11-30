@@ -24,6 +24,26 @@ knitr::opts_chunk$set(echo = FALSE)
 click [here](https://www.washingtonpost.com/lifestyle/kidspost/how-can-an-octopus-help-us-stay-warm/2019/06/21/1603f33e-8ba7-11e9-8f69-a2795fca3343_story.html) to see the article.
 
 ## Vocabulary 
+vocabulary : word key from the article :
+
+| English :      | Definition/synonym                                                                                                          |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------|
+|                |                                                                                                                             |
+|                |                                                                                                                             |
+|                |                                                                                                                             |
+| Upright        | sitting or  standing with a  straight back                                                                                  |
+| dot            | a very small spot of ink or colour                                                                                          |
+| Copper         | a  chemical  element that is a red- brown  metal. Its  symbolis Cu and it is  used  especially for  making  wire or  pipes. |
+| To lay         | to put someone or something down in a careful way                                                                           |
+| stretched      | be made or be capable of being made longer or wider without tearing or breaking.                                            |
+| sleeves        | the part of a piece of clothing that covers your arm                                                                        |
+| relief         | a  relaxed  happy  feeling that you get because something  bad has not  happened or a  bad  situation has  ended            |
+| metal-coated   | coating made out of metal                                                                                                   |
+| blanket        | a thick  cover made of  wool or another  material that you use to keep  warm in  bed                                        |
+| shifting needs | changing needs (especially unpredictably.)                                                                                  |
+
+
+
 
 ## Analysis table
 
