@@ -51,7 +51,7 @@
       "Bioengineering"
     ],
     "preview": "posts/2019-10-30-article-2/image/chameleon.jpg",
-    "last_modified": "2019-11-17T13:50:46+01:00"
+    "last_modified": "2019-11-28T13:58:54+01:00"
   },
   {
     "path": "posts/2019-09-18-article-1/",
@@ -71,5 +71,20 @@
     ],
     "preview": "posts/2019-09-18-article-1/image/bioscaffold.jpg",
     "last_modified": "2019-11-17T13:49:57+01:00"
+  },
+  {
+    "path": "posts/2019-11-30-article-4/",
+    "title": "article 4 : How can an octopus help us stay warm?",
+    "description": "A new biological application.",
+    "author": [
+      {
+        "name": "Lela Nargi",
+        "url": {}
+      }
+    ],
+    "date": "2019-06-23",
+    "categories": [],
+    "preview": "posts/2019-11-30-article-4/image/octopus1.jpg",
+    "last_modified": "2019-11-30T16:25:29+01:00"
   }
 ]
