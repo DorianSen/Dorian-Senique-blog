@@ -1,0 +1,65 @@
+---
+title: "article 5 : 3D Printed biomimicry of bone yields important discovery for lightweight and durable engineering"
+description: |
+ A study showed the importance of the microscopic structure of human bones in sustainability of thoses bones
+author:
+  - name: BEAU JACKSON 
+    url: {}
+date: 12-15-2019
+preview: image/os1.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://3dprintingindustry.com/wp-content/uploads/2019/12/Untitled-1024x576.png)
+
+## URL to the article
+
+click [here](https://3dprintingindustry.com/news/3d-printed-biomimicry-of-bone-yields-important-discovery-for-lightweight-and-durable-engineering-166245/) to see the article.
+
+## Vocabulary 
+
+| Words from the text  | Definition/synonyms                                                                                                                                           |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                      |                                                                                                                                                               |
+| struts               | a rod or bar forming part of a framework and designed to resist compression                                                                                   |
+| rods                 | a thin straight bar, especially of wood or metal.                                                                                                             |
+| sustainability       | the ability to be maintained at a certain rate or level.                                                                                                      |
+| load                 | a heavy or bulky thing that is being carried or is about to be carried                                                                                        |
+| beam                 | a long, sturdy piece of squared timber or metal used to support the roof or floor of a building.                                                              |
+| trabecular structure | is a small, often microscopic, tissue element in the form of a small beam, strut or rod that supports or anchors a framework of parts within a body or organ. |
+| plate-like           | in shape of a plate                                                                                                                                           |
+| rigidity             | inability to be to bent or be forced out of shape.                                                                                                            |
+| strain               | force (a part of one's body or oneself) to make an unusually great effort.                                                                                    |
+| Cyclic load          | is defined as the continuous and repeated application of a  load(fluctuating stresses, strains, forces, tensions, etc.)                                       |
+| load-bearing         | (especially of a wall) supporting much of the weight of the overlying parts of a building or other structure.                                                 |
+| Value                | the regard that something is held to deserve; the importance, worth, or usefulness of something.                                                              |
+| enabler              | a person or thing that makes something possible.                                                                                                              |
+|                      |                                                                                                                                                               |
+
+
+## Analysis table
+
+
+| Researchers          | Pablo Zavattieri, Professor in Purdue’s Lyles School of Civil Engineering.                                                                                                                                                                                                                                                                                                                                                                                          |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in?        | December 11TH 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| General topic?       | The article is about a new discovery about structure of human bones. This finding could be useful in medical and industrial sector because we can now understand the secret of the microscopic strucure of bones which provides strenght and sunstainability.                                                                                                                                                                                                       |
+| Procedure ?          | The researchers have inflicted strains to bones in order to discover where were the areas concerned in rigidity and sustainability.                                                                                                                                                                                                                                                                                                                                 |
+| Conclusion/discovery | By applying this strains, they found out, in the one hand, that the RIGIDITY lay in the vertical struts from the trabecular structure and in the other hand, that the SUSTAINABILITY lay in the horizontal struts of these structures.  The issue is, in this case, a huge application in medical and industrial sector because engineers are now able to recreate accurately these structures by printing them in 3D which is very useful for thoses applications. |
+
+
+
+
+
+
+
+
+
+
+
