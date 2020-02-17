@@ -1,0 +1,37 @@
+---
+title: "article 6 :  Improving friction of soft materials by using biomimicry"
+description: |
+  Researchers investigate mechanisms to improve friction of soft materials
+author:
+  - name:  RACHEL EVANS
+    url: {}
+date: 02-17-2020
+preview: https://www.tiretechnologyinternational.com/wp-content/uploads/2020/01/1.-shutterstock_1153813438-702x459.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://www.tiretechnologyinternational.com/wp-content/uploads/2020/01/1.-shutterstock_1153813438-702x459.jpg)
+
+
+## URL to the article
+click [here](https://www.tiretechnologyinternational.com/news/research-development/researchers-investigate-mechanisms-to-improve-friction-of-soft-materials.html) to see the article.
+
+## Vocabulary 
+
+| Words from the text | English definition / Synonym                                                                                                        |
+|---------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| grant               | to allow someone to have or do what they want                                                                                       |
+| funding             | money that a government or organization provides for a specific purpose                                                             |
+| in-depth            | thorough and detailed                                                                                                               |
+| salesman            | a man whose  job is to  sell the  products or  services of a  particular  company,  especially by  travelling to  different  places |
+| broad               | wide                                                                                                                                |
+| insight             | a chance to understand something or learn more about it                                                                             |
+| braking             | to stop or slow down a car, bicycle, or other vehicle by using the brakes.                                                          |
+| to arise            | if a particular situation or problem arises, it begins to exist or to develop                                                       |
+| enhancement         | the process of improving something 
