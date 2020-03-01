@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-03-01-article-8/",
+    "title": "article 8 : Plants inspire waterproof ‘nanoflower’ for medical uses",
+    "description": "Inspired by natural designs, researchers have developed an innovative way to make a surface superhydrophobic to benefit the biomedical field.",
+    "author": [
+      {
+        "name": "Jennifer Reiley",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-01",
+    "categories": [],
+    "preview": "https://www.futurity.org/wp/wp-content/uploads/2019/07/rose-with-water-droplets_1600-1.jpg",
+    "last_modified": "2020-03-01T19:09:22+01:00"
+  },
+  {
     "path": "posts/2020-02-17-article-6/",
     "title": "article 6 :  Improving friction of soft materials by using biomimicry",
     "description": "Researchers investigate mechanisms to improve friction of soft materials",
@@ -115,6 +130,6 @@
       "Biochemistry"
     ],
     "preview": "posts/2019-09-18-article-1/image/bioscaffold.jpg",
-    "last_modified": "2019-11-17T13:49:57+01:00"
+    "last_modified": "2020-03-01T15:41:47+01:00"
   }
 ]

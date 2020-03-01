@@ -1,0 +1,31 @@
+---
+title: "article 8 : Plants inspire waterproof ‘nanoflower’ for medical uses"
+description: |
+  Inspired by natural designs, researchers have developed an innovative way to make a surface superhydrophobic to benefit the biomedical field.
+author:
+  - name:  Jennifer Reiley
+    url: {}
+date: 03-01-2020
+preview: https://www.futurity.org/wp/wp-content/uploads/2019/07/rose-with-water-droplets_1600-1.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://7omcu3a78zp40klds2w28klr-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/BMEN-news-gaharwar-nanoflower-25June2019.jpg)
+
+## URL to the article
+click [here](https://today.tamu.edu/2019/07/02/researchers-designed-a-superhydrophobic-nanoflower-for-biomedical-applications/) to see the article.
+
+
+
+## Vocabulary 
+
+
+
+
+
