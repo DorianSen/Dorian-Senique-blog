@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## URL link to the article:
 click [here](https://www.purdue.edu/newsroom/releases/2019/Q4/chameleons-tongue-strike-inspires-fast-acting-robots-that-catch-live-insects-in-the-blink-of-an-eye.html) to see the article.
-
+.
 ## Vocabulary
 
 | English      | French                  | English definition / Synonym                        |
